@@ -50,4 +50,4 @@ We want to create an RPG website for game masters and players.
 
 ## DeployedApp
 
- - This is a link to the fully deployed application: (https://josephdakotajohnson.github.io/guild_journeys/).
+ - This is a link to the fully deployed application: (https://guild-journeys.onrender.com/).
